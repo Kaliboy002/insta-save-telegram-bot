@@ -1,2 +1,4 @@
-aiogram==2.20
-instaloader==4.9
+aiogram==2.25.1
+instaloader==4.9.7
+keyboard==0.13.5
+python-dotenv==1.0.0
